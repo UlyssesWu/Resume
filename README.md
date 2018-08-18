@@ -13,9 +13,10 @@
 * VSQX,CCS : [UtaFormatEx](https://github.com/VOICeVIO/UtaFormatix) (fork)
 * PRI : [PriLib](https://gitee.com/Ulysses/PriLib) (deprecated; use [PriTools](https://github.com/UlyssesWu/PriTools) (fork) instead)
 
-## Protocols
+## Protocols & Servers
 * FTP (FTPS) : [UniFTP](https://github.com/UlyssesWu/UniFTP)
 * OpenFlow : [FlowNet](https://github.com/UlyssesWu/FlowNet)
+* [SkyDriftCoreWeb](https://github.com/UlyssesWu/SkyDriftCoreWeb) : Server for Gensou Skydrift using ASP.NET Core.
 
 ## Music Tools
 * [Sync2](https://github.com/UlyssesWu/Sync2) : Push song titles to QQ status.
@@ -25,6 +26,7 @@
 * [CeVIO.CN](https://github.com/VOICeVIO/CeVIO.CN) : zh-CN Localization for CeVIO.
 * [UUIT](https://github.com/UlyssesWu/UnityEngine.UI.Translation) : Localization solutions for Unity 5.x games without source.
 * [UniTranslator](https://github.com/UlyssesWu/BAML-Translator) : WPF Localization tool.
+* [dnSpy](https://github.com/0xd4d/dnSpy) (by 0xd4d) zh-CN Translation
 
 ## .NET
 * [VinjEx](https://github.com/UlyssesWu/VinjEx) : DLL Injection lib with two-way communication feature.
