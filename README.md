@@ -6,6 +6,7 @@ Contact: wdwxy12345{at}gmail.com
 
 ## File Formats
 * PSB (SCN,PIMG,MMO,DPAK) : [FreeMote](https://github.com/UlyssesWu/FreeMote)
+* MOC : [FreeLive](https://github.com/UlyssesWu/FreeLive)
 * TLG : [TlgLib](https://github.com/Project-AZUSA/TlgLib)
 * LZ4 : [LZ4.Frame](https://github.com/UlyssesWu/LZ4.Frame) ([on nuget](https://nuget.org/packages/LZ4.Frame/))
 * BAML : [UniTranslator](https://github.com/UlyssesWu/BAML-Translator)
